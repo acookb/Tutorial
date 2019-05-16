@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Molecule - Rotate and Move",
-            "x": 816,
-            "y": 77,
+            "x": 823,
+            "y": 78,
             "uniqueID": 742531,
             "ioValues": [
                 {
@@ -152,8 +152,8 @@
                 {
                     "atomType": "Rectangle",
                     "name": "Rectangle",
-                    "x": 117,
-                    "y": 55,
+                    "x": 128,
+                    "y": 53,
                     "uniqueID": 632755,
                     "ioValues": [
                         {
@@ -169,7 +169,7 @@
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 294,
+                    "x": 290,
                     "y": 50,
                     "uniqueID": 225460,
                     "ioValues": [
@@ -182,8 +182,8 @@
                 {
                     "atomType": "Constant",
                     "name": "Constant - Radius",
-                    "x": 72,
-                    "y": 302,
+                    "x": 64,
+                    "y": 303,
                     "uniqueID": 832924,
                     "ioValues": [
                         {
@@ -204,8 +204,8 @@
                 {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 284,
-                    "y": 291,
+                    "x": 283,
+                    "y": 294,
                     "uniqueID": 606028,
                     "ioValues": [
                         {
@@ -221,8 +221,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 508,
-                    "y": 59,
+                    "x": 527,
+                    "y": 52,
                     "uniqueID": 636389,
                     "ioValues": [
                         {
@@ -242,8 +242,8 @@
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 518,
-                    "y": 287,
+                    "x": 519,
+                    "y": 285,
                     "uniqueID": 934230,
                     "ioValues": [
                         {
@@ -265,7 +265,7 @@
                     "atomType": "Difference",
                     "name": "Difference",
                     "x": 698,
-                    "y": 196,
+                    "y": 203,
                     "uniqueID": 449683,
                     "ioValues": []
                 },
@@ -281,8 +281,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Molecule - Rotate and Move",
-                    "x": 816,
-                    "y": 77,
+                    "x": 823,
+                    "y": 78,
                     "uniqueID": 742531,
                     "ioValues": [
                         {
