@@ -102,8 +102,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
-                    "y": 164,
+                    "x": 1230,
+                    "y": 220,
                     "ioValues": []
                 }
             ],
@@ -152,8 +152,8 @@
                 {
                     "atomType": "Rectangle",
                     "name": "Rectangle",
-                    "x": 102,
-                    "y": 58,
+                    "x": 117,
+                    "y": 55,
                     "uniqueID": 632755,
                     "ioValues": [
                         {
@@ -169,7 +169,7 @@
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 295,
+                    "x": 294,
                     "y": 50,
                     "uniqueID": 225460,
                     "ioValues": [
@@ -195,8 +195,8 @@
                 {
                     "atomType": "Readme",
                     "name": "README",
-                    "x": 272,
-                    "y": 158,
+                    "x": 275,
+                    "y": 156,
                     "uniqueID": 950419,
                     "ioValues": [],
                     "readmeText": "Maslow Create is a new type of CAD program where you define the thing you want to create logically, rather than by drawing. Each project is composed of Atoms and Molecules. Each atom performs one logical task like rotating the shape, each Molecule can contain any number of inter connected Atoms. To place an atom or molecule right click anywhere on the flow drawing canvas."
@@ -255,8 +255,8 @@
                 {
                     "atomType": "Readme",
                     "name": "README",
-                    "x": 702,
-                    "y": 56,
+                    "x": 712,
+                    "y": 43,
                     "uniqueID": 800690,
                     "ioValues": [],
                     "readmeText": "Molecules like this one let you layer your model to create more space. Real estate on the screen is intentionally limited to keep projects from becoming cluttered. There is no limit to how deep you can logically nest Atoms in Molecules"
@@ -272,8 +272,8 @@
                 {
                     "atomType": "Readme",
                     "name": "README",
-                    "x": 716,
-                    "y": 284,
+                    "x": 715,
+                    "y": 287,
                     "uniqueID": 606302,
                     "ioValues": [],
                     "readmeText": "This difference Atom subtracts one shape from another. For the opposite behavior check out the intersection atom."
@@ -294,8 +294,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 1016,
-                    "y": 161,
+                    "x": 1018,
+                    "y": 158,
                     "uniqueID": 140877,
                     "ioValues": [
                         {
@@ -315,8 +315,8 @@
                 {
                     "atomType": "Readme",
                     "name": "README",
-                    "x": 1238,
-                    "y": 123,
+                    "x": 1214,
+                    "y": 125,
                     "uniqueID": 650474,
                     "ioValues": [],
                     "readmeText": "The output of the program defines what will be displayed in the project thumbnail and what shape will be used for displaying changes over time. The output of the project should be connected to the output Atom. Each Molecule comes with one Output atom which cannot be deleted."
@@ -324,8 +324,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
-                    "y": 164,
+                    "x": 1230,
+                    "y": 220,
                     "ioValues": []
                 }
             ],
